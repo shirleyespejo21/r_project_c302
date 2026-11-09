@@ -1,0 +1,36 @@
+##p_4 provalvelmente
+
+bre: quarta-feira, 11 nov. 2026, 20:45
+Fecha: quarta-feira, 11 nov. 2026, 22:30
+Sobre a questão "Holidays"
+
+Data Dictionary
+global_holidays.csv
+ 
+variable 	class 	description
+ADM_name 	character 	Name of the administering location (country or other political subdivision).
+ISO3 	character 	3-letter ISO code for this location (see TidyTuesday 2024-11-12: ISO Country Codes).
+Date 	date 	Date of the observance.
+Name 	character 	Name of the observance.
+Type 	character 	Type of the observance. One of "Half-day holiday", "Local holiday", "Local observance", "Observance", "Public holiday", "Special holiday", or "Working day (replacement)".
+monthly_passengers.csv
+variable 	class 	description
+ISO3 	character 	3-letter ISO code for this location (see TidyTuesday 2024-11-12: ISO Country Codes).
+Year 	integer 	Year of the flights.
+Month 	integer 	Month of the flights.
+Total 	double 	Total number of air passengers in thousands, obtained from official statistics.
+Domestic 	double 	Number of internal air passengers in thousands for a country, obtained from official statistics.
+International 	double 	Number of international air passengers in thousands, obtained from official statistics.
+Total_OS 	double 	Total number of air passengers in thousands, obtained from other openly available data sources.
+
+
+
+Sobre a questão "Fast Food"
+
+Utilize o banco FastFood.csv para essa questão.
+
+Tentativas permitidas: 1
+
+Nota para aprovação: 7,00 de 10,00
+
+Atualmente este questionário não está disponível.
